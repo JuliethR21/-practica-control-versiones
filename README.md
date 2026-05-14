@@ -6,3 +6,5 @@ Segunda modificacion: Actualizacion de README
 Autores: Julieth Riveros,
          Nicolas Marcelo,
          Mario Mendoza
+
+Estandares y Metricas de calidad
